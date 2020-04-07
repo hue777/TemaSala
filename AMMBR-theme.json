@@ -1,6 +1,6 @@
 {
     "room":                     "Sala de Testes",
-    "css":                      "https://rawcdn.githack.com/hue777/TemaSala/fce1516bce0583381e2e6902930f49c6ce6c7ce2/AMMBR-theme.css",
+    "css":                      "https://rawcdn.githack.com/hue777/TemaSala/7a680c695c67b62f6516a30ede416bf50af3f4ad/AMMBR-theme.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
