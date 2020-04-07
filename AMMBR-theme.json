@@ -1,6 +1,6 @@
 {
     "room":                     "Anime Music Music BR",
-    "css":                      "https://rawgit.com/NiceATC/AnimeMusicMusicBR/master/AMMBR-theme.css",
+    "css":                      "https://github.com/hue777/TemaSala/blob/master/AMMBR-theme.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
