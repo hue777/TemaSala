@@ -1,6 +1,6 @@
 {
-    "room":                     "Anime Music Music BR",
-    "css":                      "https://raw.githack.com/hue777/TemaSala/master/AMMBR-theme.css",
+    "room":                     "Sala de Testes",
+    "css":                      "rawcdn.githack.com/hue777/TemaSala/e4e41aa444952ab988254447d453144c6f228cd2/AMMBR-theme.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
