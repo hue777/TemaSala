@@ -1,0 +1,34 @@
+/* AMMBR BOT */
+[data-cid^="15656945-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/MfESUYy.jpg") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-15656945 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/MfESUYy.jpg") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-15656945 .info .role i {
+    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
+}
+#chat [data-cid^='15656945-'] .un:hover:after {
+    content: 'Loli do V1RTU4L';
+    background: url('http://i.imgur.com/HdwNWu5.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 9px;
+    width: 90px;
+    height: 26px;
+}
+[data-cid^="15656945-"] .msg {
+    border-left: 3px solid #8230FF !important;
+}
+[data-cid^="15656945-"] .icon-chat-manager {
+    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
+}
+/* AMMBR BOT */
