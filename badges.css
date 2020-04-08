@@ -1,0 +1,208 @@
+/* Custom Badges */
+
+/* General */
+#chat .badge-box i,
+.right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;
+}
+#chat-messages .badge-box {
+    background: none !important;
+}
+
+/* BOB */
+#chat-messages .id-33107375 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-33107375 .badge-box i.bdg,
+#chat-messages .id-33107375 .badge-box i.bdg {
+    background-image: url("https://i.imgur.com/voLNduZ.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-33107375::before {
+    background-image: url("https://i.imgur.com/ZHAYYwB.png");
+    background-repeat: repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* BOB */
+
+/* DENI */
+#chat-messages .id-4473623 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-4473623 .badge-box i.bdg,
+#chat-messages .id-4473623 .badge-box i.bdg {
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/deniPic.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-4473623::before {
+    background-image: url("https://i.imgur.com/5WFLgyr.jpg");
+    background-repeat: repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* DENI */
+
+/* DUDU */
+#chat-messages .id-37634917 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-37634917 .badge-box i.bdg,
+#chat-messages .id-37634917 .badge-box i.bdg {
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/duduPic.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-37634917::before {
+    background-image: url("https://i.imgur.com/qORJkMd.jpg");
+    background-repeat: repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* DUDU */
+
+/* KARU */
+#chat-messages .id-4690550 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-4690550 .badge-box i.bdg,
+#chat-messages .id-4690550 .badge-box i.bdg {
+    background-image: url("https://i.imgur.com/OZ26sus.gif");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-4690550::before {
+    background-image: url("https://i.imgur.com/Y1j9Jz7.png");
+    background-repeat: repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* KARU */
+
+/* HELOPS */
+#chat-messages .id-5291107 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-5291107 .badge-box i.bdg,
+#chat-messages .id-5291107 .badge-box i.bdg {
+    background-image: url("https://raw.githack.com/hue777/TemaSala/master/badges/helopsPic.gif");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-5291107::before {
+    background-image: url("https://i.imgur.com/ErVqF4n.jpg");
+    background-repeat: repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* HELOPS */
+
+/* LEO */
+#chat-messages .id-35697804 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-35697804 .badge-box i.bdg,
+#chat-messages .id-35697804 .badge-box i.bdg {
+    background-image: url("https://i.pinimg.com/originals/13/ff/2d/13ff2d3c3455b14121a5edab85d161e8.gif");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-35697804::before {
+    background-image: url("https://i.imgur.com/uqk9apw.png");
+    background-repeat: repeat;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* LEO */
