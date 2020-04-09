@@ -4,6 +4,23 @@
 /*  Community Theme Styling */
 /* VERSION: 1.3 */
 
+/*#user-rollover.id-4093788 .username:hover,
+#chat [data-cid^="4093788-"] span.un.clickable:hover {
+    animation: rainbow 10s infinite;
+}
+*/
+#user-rollover.id-33107375 .info .role span:after {
+    content: ' / Bob';
+}
+
+/*.id-13585808 .msg .from i.icon-chat-manager,
+#waitlist .list .user[data-uid="13585808"] .meta.is-staff .name .icon-chat-manager,
+#user-rollover.id-13585808 .info .role i.icon-chat-manager,
+#user-lists .list.room .user.id-13585808 .icon-chat-manager {
+    background: url("https://edm-spot.github.io/icons/dev.png") no-repeat !important;
+}
+*/
+
 /************/
 /*DIALOG BOX*/
 /************/
