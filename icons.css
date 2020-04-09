@@ -17,7 +17,7 @@
 
 #user-rollover.id-4690550 .meta:before{
 	content:url(https://edmspot.tk/public/images/icons/3783327V.png);
-	top:120px;
+	top:140px;
 	left:109px;
 	position:absolute
 }
@@ -27,7 +27,7 @@
 	white-space:pre-wrap;
 	color:#808691;
 	position:absolute;
-	top:120px;
+	top:140px;
 	left:130px
 }
 /* VERSION 1 */
@@ -37,13 +37,13 @@
 	height:200px!important
 	}
 #chat .cm.message[data-cid^="33107375"] .msg .from .un{
-	background-image:url(https://edmspot.tk/public/images/icons/3788262.png);
+	background-image:url(https://i.imgur.com/0vEUFaP.png);
 	background-repeat:no-repeat;
 	background-position:0 center;
 	top:2px;
 	z-index:0;
-	width:15px;
-	height:15px;
+	width:10px;
+	height:20px;
 	position:relative;
 	padding-left:42px
 }
