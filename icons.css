@@ -1,0 +1,64 @@
+/* VERSION 1 */
+#user-rollover.id-4690550 .meta{
+	height:200px!important
+}
+
+#chat .cm.message[data-cid^="4690550"] .msg .from .un{
+	background-image:url(https://edmspot.tk/public/images/icons/3783327.png);
+	background-repeat:no-repeat;
+	background-position:0 center;
+	top:2px;
+	z-index:0;
+	width:15px;
+	height:15px;
+	position:relative;
+	padding-left:19px
+}
+
+#user-rollover.id-4690550 .meta:before{
+	content:url(https://edmspot.tk/public/images/icons/3783327V.png);
+	top:140px;
+	left:109px;
+	position:absolute
+}
+
+#user-rollover.id-4690550 .meta:after{
+	content:'Discord Linked';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+/* VERSION 1 */
+
+/* VERSION 2 */
+#user-rollover.id-33107375 .meta{
+	height:200px!important
+	}
+#chat .cm.message[data-cid^="33107375"] .msg .from .un{
+	background-image:url(https://edmspot.tk/public/images/icons/3788262.png);
+	background-repeat:no-repeat;
+	background-position:0 center;
+	top:2px;
+	z-index:0;
+	width:15px;
+	height:15px;
+	position:relative;
+	padding-left:42px
+}
+#user-rollover.id-33107375 .meta:before{
+	content:url(https://edmspot.tk/public/images/icons/3788262V.png);
+	top:140px;
+	left:109px;
+	position:absolute
+}
+#user-rollover.id-33107375 .meta:after{
+	content:'Discord Linked \A Christmas Event 2018';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+/* VERSION 2 */
