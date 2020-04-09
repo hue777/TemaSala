@@ -32,7 +32,7 @@
     background-image: url("https://i.imgur.com/ZHAYYwB.png");
     background-repeat: repeat;
     content: "bob";
-    content-align: left;
+    content-align: right;
     position: absolute;
     top: 0;
     left: 0;
