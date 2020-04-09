@@ -18,7 +18,7 @@
 
 #user-rollover.id-33107375 .badge-box i.bdg,
 #chat-messages .id-33107375 .badge-box i.bdg {
-    background-image: url("https://i.imgur.com/voLNduZ.jpg");
+    background-image: url("https://i.imgur.com/Wk9U7xq.jpg");
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -31,7 +31,7 @@
 .cm.id-33107375::before {
     background-image: url("https://i.imgur.com/ZHAYYwB.png");
     background-repeat: repeat;
-    content: "";
+    content: "bob";
     position: absolute;
     top: 0;
     left: 0;
@@ -64,7 +64,7 @@
 .cm.id-4473623::before {
     background-image: url("https://i.imgur.com/5WFLgyr.jpg");
     background-repeat: repeat;
-    content: "";
+    content: "Deni";
     position: absolute;
     top: 0;
     left: 0;
@@ -97,7 +97,7 @@
 .cm.id-37634917::before {
     background-image: url("https://i.imgur.com/qORJkMd.jpg");
     background-repeat: repeat;
-    content: "";
+    content: "Aluno do COF";
     position: absolute;
     top: 0;
     left: 0;
@@ -128,9 +128,9 @@
 }
 
 .cm.id-4690550::before {
-    background-image: url("https://i.imgur.com/Y1j9Jz7.png");
+    background-image: url("https://i.imgur.com/cvIXgEB.jpg");
     background-repeat: repeat;
-    content: "";
+    content: "Guarda-costas da Helops";
     position: absolute;
     top: 0;
     left: 0;
@@ -163,7 +163,7 @@
 .cm.id-5291107::before {
     background-image: url("https://i.imgur.com/ErVqF4n.jpg");
     background-repeat: repeat;
-    content: "";
+    content: "Protegida do Karu";
     position: absolute;
     top: 0;
     left: 0;
@@ -196,7 +196,7 @@
 .cm.id-35697804::before {
     background-image: url("https://i.imgur.com/uqk9apw.png");
     background-repeat: repeat;
-    content: "";
+    content: "Gaymer";
     position: absolute;
     top: 0;
     left: 0;
@@ -206,3 +206,69 @@
     z-index: -1;
 }
 /* LEO */
+
+/* GARI */
+#chat-messages .id-3666722 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-3666722 .badge-box i.bdg,
+#chat-messages .id-3666722 .badge-box i.bdg {
+    background-image: url("https://i.imgur.com/BrBT7m7.png");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-3666722::before {
+    background-image: url("https://i.imgur.com/2qM5fPV.jpg");
+    background-repeat: repeat;
+    content: "Garíndio";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* GARI */
+
+/* KINDA */
+#chat-messages .id-33011403 .badge-box:hover {
+    width: 65px;
+    height: 65px;
+    transition: 0.4s;
+}
+
+#user-rollover.id-33011403 .badge-box i.bdg,
+#chat-messages .id-33011403 .badge-box i.bdg {
+    background-image: url("https://i.imgur.com/sGGs5bv.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.cm.id-33011403::before {
+    background-image: url("https://i.imgur.com/UmCBmy7.jpg");
+    background-repeat: repeat;
+    content: "Kpopper";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+}
+/* KINDA */
