@@ -1,27 +1,50 @@
-@import url("https://rawcdn.githack.com/hue777/TemaSala/35c094c49e16b6d209c33f54a4539c01c525a2fd/badges.css");
+@import url("https://rawcdn.githack.com/hue777/TemaSala/d3a419099bc8bce6f58603686611ba9d8b860379/badges.css");
 @import url("https://rawcdn.githack.com/hue777/TemaSala/e4e41aa444952ab988254447d453144c6f228cd2/WAM.css");
 @import url("https://rawcdn.githack.com/hue777/TemaSala/e4e41aa444952ab988254447d453144c6f228cd2/Supporters.css");
-@import url("https://rawcdn.githack.com/hue777/TemaSala/cd63580bedecf090f0544339cbdb207b42318982/icons.css");
+@import url("https://rawcdn.githack.com/hue777/TemaSala/ad587289e9bb388d25810128d6b65a2c65ffb788/icons.css");
 
 /*  Community Theme Styling */
 /* VERSION: 1.3 */
 
-/*#user-rollover.id-4093788 .username:hover,
-#chat [data-cid^="4093788-"] span.un.clickable:hover {
-    animation: rainbow 10s infinite;
-}
-*/
+/* APELIDOS */
+
+/* BOB */
 #user-rollover.id-33107375 .info .role span:after {
     content: ' (Bob)';
 }
+/* BOB */
 
-/*.id-13585808 .msg .from i.icon-chat-manager,
-#waitlist .list .user[data-uid="13585808"] .meta.is-staff .name .icon-chat-manager,
-#user-rollover.id-13585808 .info .role i.icon-chat-manager,
-#user-lists .list.room .user.id-13585808 .icon-chat-manager {
-    background: url("https://edm-spot.github.io/icons/dev.png") no-repeat !important;
+/* DUDU */
+#user-rollover.id-37634917 .info .role span:after {
+    content: ' (Dudu)';
 }
-*/
+/* DUDU */
+
+/* KARU */
+#user-rollover.id-4690550 .info .role span:after {
+    content: ' (Karu)';
+}
+/* KARU */
+
+/* LEO */
+#user-rollover.id-35697804 .info .role span:after {
+    content: ' (Leo)';
+}
+/* LEO */
+
+/* DENI */
+#user-rollover.id-4473623 .info .role span:after {
+    content: ' (Deni)';
+}
+/* DENI */
+
+/* HELOPS */
+#user-rollover.id-5291107 .info .role span:after {
+    content: ' (Me protege, Karu)';
+/* HELOPS */
+
+/* APELIDOS */
+
 
 /************/
 /*DIALOG BOX*/
