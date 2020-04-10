@@ -31,8 +31,7 @@
 .cm.id-33107375::before {
     background-image: url("https://i.imgur.com/lLGrI8G.png");
     background-repeat: repeat;
-    content: "bob";
-    content-align: right;
+    content: "";
     position: absolute;
     top: 30;
     left: 200;
@@ -65,7 +64,7 @@
 .cm.id-4473623::before {
     background-image: url("https://i.imgur.com/OlN7Egv.jpg");
     background-repeat: repeat;
-    content: "Deni";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -98,7 +97,7 @@
 .cm.id-37634917::before {
     background-image: url("https://i.imgur.com/Vw6F3GE.jpg");
     background-repeat: repeat;
-    content: "Aluno do COF";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -131,7 +130,7 @@
 .cm.id-4690550::before {
     background-image: url("https://i.imgur.com/NYwnn9H.jpg");
     background-repeat: repeat;
-    content: "Guarda-costas da Helops";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -164,7 +163,7 @@
 .cm.id-5291107::before {
     background-image: url("https://i.imgur.com/QN9WFGR.jpg");
     background-repeat: repeat;
-    content: "Protegida do Karu";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -197,7 +196,7 @@
 .cm.id-35697804::before {
     background-image: url("https://i.imgur.com/DalpFTt.png");
     background-repeat: repeat;
-    content: "Gaymer";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -230,7 +229,7 @@
 .cm.id-3666722::before {
     background-image: url("https://i.imgur.com/zDrrRIk.jpg");
     background-repeat: repeat;
-    content: "Garíndio";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -263,7 +262,7 @@
 .cm.id-33011403::before {
     background-image: url("https://i.imgur.com/CH4WFll.jpg");
     background-repeat: repeat;
-    content: "Kpopper";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
