@@ -1,6 +1,6 @@
 {
     "room":                     "Amigos do Cyber Site",
-    "css":                      "https://rawcdn.githack.com/hue777/TemaSala/834a813813796bb1faaab8b2fbc265066137ea40/theme.css",
+    "css":                      "https://rawcdn.githack.com/hue777/TemaSala/463e05cf104405735927433d63cd4dd0841e8c24/theme.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -8,8 +8,8 @@
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
-        "allowShowingMehs":     false,
-        "forceSmartVote":       false
+        "allowShowingMehs":     true,
+        "forceSmartVote":       true
     },
     "ccc": {
         "admin":                null,
