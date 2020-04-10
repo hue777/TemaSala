@@ -1,37 +1,5 @@
-/* VERSION 1 */
-#user-rollover.id-4690550 .meta{
-	height:200px!important
-}
 
-#chat .cm.message[data-cid^="4690550"] .msg .from .un{
-	background-image:url(https://edmspot.tk/public/images/icons/3783327.png);
-	background-repeat:no-repeat;
-	background-position:0 center;
-	top:2px;
-	z-index:0;
-	width:15px;
-	height:15px;
-	position:relative;
-	padding-left:19px
-}
-
-#user-rollover.id-4690550 .meta:before{
-	content:url(https://edmspot.tk/public/images/icons/3783327V.png);
-	top:140px;
-	left:109px;
-	position:absolute
-}
-
-#user-rollover.id-4690550 .meta:after{
-	content:'Discord Linked';
-	white-space:pre-wrap;
-	color:#808691;
-	position:absolute;
-	top:140px;
-	left:130px
-}
-/* VERSION 1 */
-
+/*
 /* VERSION 2 */
 #user-rollover.id-33107375 .meta{
 	height:200px!important
@@ -62,3 +30,174 @@
 	left:130px
 }
 /* VERSION 2 */
+*/
+
+/* KARU */
+#user-rollover.id-4690550 .meta{
+	height:200px!important
+}
+
+#chat .cm.message[data-cid^="4690550"] .msg .from .un{
+	background-image:url(https://i.imgur.com/EA9UVu1.png);
+	background-repeat:no-repeat;
+	background-position:0 center;
+	top:2px;
+	z-index:0;
+	width:20px;
+	height:20px;
+	position:relative;
+	padding-left:19px
+}
+
+#user-rollover.id-4690550 .meta:before{
+	content:url(https://i.imgur.com/EA9UVu1.png);
+	top:140px;
+	left:109px;
+	position:absolute
+}
+
+#user-rollover.id-4690550 .meta:after{
+	content:'Karu, protetor da Helops';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+/* KARU */
+
+/* BOB */
+#user-rollover.id-33107375 .meta{
+	height:200px!important
+}
+
+#chat .cm.message[data-cid^="33107375"] .msg .from .un{
+	background-image:url(https://i.imgur.com/vrtaZ9W.png);
+	background-repeat:no-repeat;
+	background-position:0 center;
+	top:2px;
+	z-index:0;
+	width:20px;
+	height:20px;
+	position:relative;
+	padding-left:19px
+}
+
+#user-rollover.id-33107375 .meta:before{
+	content:url(https://i.imgur.com/vrtaZ9W.png);
+	top:140px;
+	left:109px;
+	position:absolute
+}
+
+#user-rollover.id-33107375 .meta:after{
+	content:'Programador';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+/* BOB */
+
+/* LEO */
+#user-rollover.id-35697804 .meta{
+	height:200px!important
+}
+
+#chat .cm.message[data-cid^="35697804"] .msg .from .un{
+	background-image:url(https://i.imgur.com/voYQUVM.png);
+	background-repeat:no-repeat;
+	background-position:0 center;
+	top:2px;
+	z-index:0;
+	width:25px;
+	height:25px;
+	position:relative;
+	padding-left:19px
+}
+
+#user-rollover.id-35697804 .meta:before{
+	content:url(https://i.imgur.com/voYQUVM.png);
+	top:140px;
+	left:109px;
+	position:absolute
+}
+
+#user-rollover.id-35697804 .meta:after{
+	content:'Gaymer fã de Zelda';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+/* LEO */
+
+/* DUDU */
+#user-rollover.id-37634917 .meta{
+	height:200px!important
+}
+
+#chat .cm.message[data-cid^="37634917"] .msg .from .un{
+	background-image:url(https://i.imgur.com/ouWHfFg.png);
+	background-repeat:no-repeat;
+	background-position:0 center;
+	top:2px;
+	z-index:0;
+	width:20px;
+	height:20px;
+	position:relative;
+	padding-left:19px
+}
+
+#user-rollover.id-37634917 .meta:before{
+	content:url(https://i.imgur.com/ouWHfFg.png);
+	top:140px;
+	left:109px;
+	position:absolute
+}
+
+#user-rollover.id-37634917 .meta:after{
+	content:'Dudu, aluno do COF';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+/* DUDU */
+
+/* DENI */
+#user-rollover.id-4473623 .meta{
+	height:200px!important
+}
+
+#chat .cm.message[data-cid^="4473623"] .msg .from .un{
+	background-image:url(https://i.imgur.com/5vUDynW.png);
+	background-repeat:no-repeat;
+	background-position:0 center;
+	top:2px;
+	z-index:0;
+	width:20px;
+	height:20px;
+	position:relative;
+	padding-left:19px
+}
+
+#user-rollover.id-4473623 .meta:before{
+	content:url(https://i.imgur.com/5vUDynW.png);
+	top:140px;
+	left:109px;
+	position:absolute
+}
+
+#user-rollover.id-4473623 .meta:after{
+	content:'Deni';
+	white-space:pre-wrap;
+	color:#808691;
+	position:absolute;
+	top:140px;
+	left:130px
+}
+/* DENI */
