@@ -57,7 +57,7 @@
 }
 
 #user-rollover.id-33107375 .meta:after{
-	content:'Programador';
+	content:'Lindo';
 	white-space:pre-wrap;
 	color:#808691;
 	position:absolute;
@@ -72,13 +72,13 @@
 }
 
 #chat .cm.message[data-cid^="35697804"] .msg .from .un{
-	background-image:url(https://i.imgur.com/voYQUVM.png);
+	background-image:url(https://i.imgur.com/gta1QYQ.png);
 	background-repeat:no-repeat;
 	background-position:0 center;
 	top:2px;
 	z-index:0;
-	width:25px;
-	height:25px;
+	width:20px;
+	height:20px;
 	position:relative;
 	padding-left:19px
 }
