@@ -1,10 +1,9 @@
-@import url("https://rawcdn.githack.com/hue777/TemaSala/586dad242270a3836f9cae20103f5b50c3584ab8/badges.css");
-@import url("https://rawcdn.githack.com/hue777/TemaSala/e4e41aa444952ab988254447d453144c6f228cd2/WAM.css");
-@import url("https://rawcdn.githack.com/hue777/TemaSala/e4e41aa444952ab988254447d453144c6f228cd2/Supporters.css");
-@import url("https://rawcdn.githack.com/hue777/TemaSala/463e05cf104405735927433d63cd4dd0841e8c24/icons.css");
+@import url("https://raw.githubusercontent.com/hue777/TemaSala/master/badges.css");
+@import url("https://raw.githubusercontent.com/hue777/TemaSala/master/WAM.css");
+@import url("https://raw.githubusercontent.com/hue777/TemaSala/master/icons.css");
 
 /*  Community Theme Styling */
-/* VERSION: 1.3 */
+/* VERSION: the last? */
 
 /* APELIDOS */
 
@@ -40,7 +39,7 @@
 
 /* HELOPS */
 #user-rollover.id-5291107 .info .role span:after {
-    content: ' (Me protege, Karu)';
+    content: ' (Protegida do Karu)';
 /* HELOPS */
 
 /* APELIDOS */
