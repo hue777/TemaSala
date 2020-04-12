@@ -1,6 +1,6 @@
 {
     "room":                     "Amigos do Cyber Site",
-    "css":                      "https://gitcdn.link/repo/hue777/TemaSala/master/theme.css",
+    "css":                      "https://rawcdn.githack.com/hue777/TemaSala/9bd30a7e8b05c41428f8b958bb47d5047b38ee22/theme.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
