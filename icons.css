@@ -38,13 +38,13 @@
 }
 
 #chat .cm.message[data-cid^="33107375"] .msg .from .un{
-	background-image:url(https://i.imgur.com/eml1BDG.png);
+	background-image:url(https://i.imgur.com/HMOeyzo.png);
 	background-repeat:no-repeat;
 	background-position:0 center;
 	top:2px;
 	z-index:0;
-	width:20px;
-	height:20px;
+	width:15px;
+	height:15px;
 	position:relative;
 	padding-left:19px
 }
@@ -72,13 +72,13 @@
 }
 
 #chat .cm.message[data-cid^="35697804"] .msg .from .un{
-	background-image:url(https://i.imgur.com/eml1BDG.png);
+	background-image:url(https://i.imgur.com/HMOeyzo.png);
 	background-repeat:no-repeat;
 	background-position:0 center;
 	top:2px;
 	z-index:0;
-	width:20px;
-	height:20px;
+	width:15px;
+	height:15px;
 	position:relative;
 	padding-left:19px
 }
